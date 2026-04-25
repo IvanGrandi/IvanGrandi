@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ivan Grandi
 
-I'm a third-year student at **Efrei Paris**, motivated, curious, and always ready to take on new challenges.  
+I'm an engineering student at **Efrei Paris**, motivated, curious, and always ready to take on new challenges.  
 Throughout my journey, I've developed key skills such as **discipline**, **adaptability**, and a **strong desire to learn**.
 
 Welcome to my personal GitHub page! Below you'll find a selection of my projects across web development and software engineering.
