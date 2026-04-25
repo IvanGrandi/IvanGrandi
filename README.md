@@ -39,14 +39,14 @@ I'm an engineering student at Efrei Paris, motivated, curious, and always ready 
 - **Key Features:** Clean UI/UX, decoupled architecture, and automated deployment on Vercel.
 - [🔗 Live Demo](https://green-gizmos.vercel.app/) | [💻 GitHub Repo](https://github.com/AlikBook/GreenGizmos)
 
-### 📅 [Planning Manager](https://flutter-planning.vercel.app/)
+### 📅 [Planning Manager](https://sync-up-planning.vercel.app/)
 
 **Cross-Platform Productivity Tool**
 
 - **Description:** A robust event management system featuring an interactive calendar and real-time attendance tracking.
 - **Tech Stack:** Flutter + Dart + Material Design.
 - **Key Features:** Multi-platform support (Web/Mobile), dynamic color-coded attendance logic, and responsive layouts.
-- [🔗 Live Demo](https://flutter-planning.vercel.app/) | [💻 GitHub Repo](https://github.com/AlikBook/Sync-up-planning)
+- [🔗 Live Demo](https://sync-up-planning.vercel.app/) | [💻 GitHub Repo](https://github.com/AlikBook/Sync-up-planning)
 
 ### 🚇 [Guide Me - Paris Metro](https://guide-me-metro.vercel.app/)
 
