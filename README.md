@@ -37,7 +37,7 @@ I'm an engineering student at Efrei Paris, motivated, curious, and always ready 
 - **Description:** A sustainability-focused application designed to promote and track Green IT initiatives.
 - **Tech Stack:** Vue.js (Frontend) + Node.js/Express (Backend).
 - **Key Features:** Clean UI/UX, decoupled architecture, and automated deployment on Vercel.
-- [🔗 Live Demo](https://green-gizmos.vercel.app/) | [💻 GitHub Repo](https://github.com/AlikBook/GreenGizmos)
+- [🔗 Live Demo](https://green-gizmos.vercel.app/) | [💻 GitHub Repo](https://github.com/IvanGrandi/GreenGizmos)
 
 ### 📅 [Planning Manager](https://sync-up-planning.vercel.app/)
 
@@ -46,7 +46,7 @@ I'm an engineering student at Efrei Paris, motivated, curious, and always ready 
 - **Description:** A robust event management system featuring an interactive calendar and real-time attendance tracking.
 - **Tech Stack:** Flutter + Dart + Material Design.
 - **Key Features:** Multi-platform support (Web/Mobile), dynamic color-coded attendance logic, and responsive layouts.
-- [🔗 Live Demo](https://sync-up-planning.vercel.app/) | [💻 GitHub Repo](https://github.com/AlikBook/Sync-up-planning)
+- [🔗 Live Demo](https://sync-up-planning.vercel.app/) | [💻 GitHub Repo](https://github.com/IvanGrandi/Sync-up-planning)
 
 ### 🚇 [Guide Me - Paris Metro](https://guide-me-metro.vercel.app/)
 
@@ -55,12 +55,12 @@ I'm an engineering student at Efrei Paris, motivated, curious, and always ready 
 - **Description:** A high-performance tool to calculate the shortest paths across the Paris Metro network.
 - **Tech Stack:** Vue 3 + Vite (Frontend) + FastAPI/Python (Backend).
 - **Key Features:** GTFS dataset integration, SQLite database management, and graph algorithm optimization using C extensions.
-- [🔗 Live Demo](https://guide-me-metro.vercel.app/) | [💻 GitHub Repo](https://github.com/AlikBook/Guide-me)
+- [🔗 Live Demo](https://guide-me-metro.vercel.app/) | [💻 GitHub Repo](https://github.com/IvanGrandi/Guide-me)
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=AlikBook&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlikBook&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=IvanGrandi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=IvanGrandi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
